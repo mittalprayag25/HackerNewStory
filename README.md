@@ -19,3 +19,7 @@ Install native dependencies for iOS
 ```
 
 ## IOS Not tested due to unavailability of MAC machine with required softwares
+
+```bash
+> https://youtu.be/fY6h-W4hcHY
+```
