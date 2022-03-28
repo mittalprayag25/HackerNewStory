@@ -24,4 +24,4 @@ Install native dependencies for iOS
 > https://youtu.be/fY6h-W4hcHY
 ```
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/fY6h-W4hcHY)
+[![Everything Is AWESOME](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/fY6h-W4hcHY)
