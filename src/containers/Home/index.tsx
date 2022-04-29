@@ -56,7 +56,13 @@ const Home = ({navigation}: any): JSX.Element => {
         <RefreshControl refreshing={refreshing} onRefresh={onRefresh} />
       }>
       <View style={styles.header}>
-        <Text style={styles.headerLabel}>Hacker News</Text>
+        <Text
+          style={styles.headerLabel}
+          onPress={() => {
+            navigation.navigate('OtherModule');
+          }}>
+          Hacker News
+        </Text>
         <Text style={styles.subSection}>
           new | Past | comments | ask | show | jobs
         </Text>
